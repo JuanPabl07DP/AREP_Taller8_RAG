@@ -15,10 +15,10 @@ El objetivo de esta primera parte es implementar un modelo LLM siguiendo el paso
 3. **Abrir el archivo Jupyter Notebook** para interactuar con el modelo LLM:
 
    ```bash
-   jupyter notebook .ipynb
+   jupyter Copy_of_AREP_Taller8_2.ipynb
    ```
 
-   NOTA: No olvidar colocar la APIKey generada por OpenAI.
+   NOTA: No olvidar colocar la APIKey generada por OpenAI y pinecone.
 
 ### 🔥Requisitos
 
