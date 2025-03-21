@@ -7,6 +7,10 @@ El objetivo de esta segunda parte es implementar una arquitectura RAG  utilizand
 
 ***Flujo básico de las RAG***
 
+![...](img/8.png)
+
+***Boceto de la arquitectura***
+
 ### ♨️ Instalación
 
 1. **Clonar el repositorio** desde GitHub:
