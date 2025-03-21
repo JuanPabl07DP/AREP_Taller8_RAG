@@ -6,16 +6,16 @@ El objetivo de esta primera parte es implementar un modelo LLM siguiendo el paso
 
 1. **Clonar el repositorio** desde GitHub:
    ```bash
-   git clone (https://github.com/JuanPabl07DP/AREP_Taller8_langchain.git)
+   git clone https://github.com/JuanPabl07DP/AREP_Taller8_RAG.git
    ```
 2. **Navegar al directorio del proyecto**:
    ```bash
-   cd AREP_Taller8_langchain
+   cd AREP_Taller8_RAG
    ```
 3. **Abrir el archivo Jupyter Notebook** para interactuar con el modelo LLM:
 
    ```bash
-   jupyter notebook tutorial.ipynb
+   jupyter notebook .ipynb
    ```
 
    NOTA: No olvidar colocar la APIKey generada por OpenAI.
