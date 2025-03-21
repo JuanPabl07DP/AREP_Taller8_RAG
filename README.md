@@ -29,7 +29,17 @@ El objetivo de esta segunda parte es implementar una arquitectura RAG  utilizand
 
 ### 😉Pruebas
 
-![...](img/)
+![...](img/1.png)
+
+![...](img/2.png)
+
+![...](img/3.png)
+
+![...](img/4.png)
+
+![...](img/5.png)
+
+![...](img/6.png)
 
 ### 🍄Autor
 
