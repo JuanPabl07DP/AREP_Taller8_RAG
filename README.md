@@ -1,6 +1,6 @@
 # 🐭 **Taller LLM -  RAG**
 
-El objetivo de esta primera parte es implementar un modelo LLM siguiendo el paso a paso del tutorial LangChain LLM Chain (https://python.langchain.com/docs/tutorials/llm_chain/).
+El objetivo de esta segunda parte es implementar una arquitectura RAG  utilizando las herramientas de OpenAI y el framework LangChain (https://python.langchain.com/docs/tutorials/rag/).
 
 ### ♨️ Instalación
 
