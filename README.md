@@ -2,6 +2,11 @@
 
 El objetivo de esta segunda parte es implementar una arquitectura RAG  utilizando las herramientas de OpenAI y el framework LangChain (https://python.langchain.com/docs/tutorials/rag/).
 
+
+![...](img/7.png)
+
+***Flujo básico de las RAG***
+
 ### ♨️ Instalación
 
 1. **Clonar el repositorio** desde GitHub:
